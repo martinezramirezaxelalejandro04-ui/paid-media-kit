@@ -1,0 +1,415 @@
+date,platform,campaign,campaign_key,spend_mxn,impressions,clicks,conversions
+2026-09-01,google,Donativos_Recurrentes,donativos_recurrentes,647.14,7699,262,19.0
+2026-09-01,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,373.76,4255,164,10.0
+2026-09-02,google,Donativos_Recurrentes,donativos_recurrentes,619.4,6125,215,18.0
+2026-09-02,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,376.34,4536,171,9.0
+2026-09-03,google,Donativos_Recurrentes,donativos_recurrentes,662.82,6241,215,11.0
+2026-09-03,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,417.83,4227,144,7.0
+2026-09-04,google,Donativos_Recurrentes,donativos_recurrentes,675.9,7207,240,12.0
+2026-09-04,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,474.69,5479,156,12.0
+2026-09-05,google,Donativos_Recurrentes,donativos_recurrentes,599.62,6685,268,12.0
+2026-09-05,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,445.8,5155,218,12.0
+2026-09-06,google,Donativos_Recurrentes,donativos_recurrentes,722.86,6567,281,19.0
+2026-09-06,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,459.06,5507,195,14.0
+2026-09-07,google,Donativos_Recurrentes,donativos_recurrentes,730.4,7425,268,20.0
+2026-09-07,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,432.65,4531,150,10.0
+2026-09-08,google,Donativos_Recurrentes,donativos_recurrentes,765.97,8051,223,13.0
+2026-09-08,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,396.23,4610,177,7.0
+2026-09-09,google,Donativos_Recurrentes,donativos_recurrentes,683.94,7997,312,17.0
+2026-09-09,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,479.02,4654,156,10.0
+2026-09-10,google,Donativos_Recurrentes,donativos_recurrentes,670.45,6966,257,14.0
+2026-09-10,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,411.16,3716,144,6.0
+2026-09-11,google,Donativos_Recurrentes,donativos_recurrentes,697.5,6580,220,18.0
+2026-09-11,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,388.64,4456,141,11.0
+2026-09-12,google,Donativos_Recurrentes,donativos_recurrentes,631.1,7027,291,22.0
+2026-09-12,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,454.66,4464,140,11.0
+2026-09-13,google,Donativos_Recurrentes,donativos_recurrentes,738.99,8617,320,16.0
+2026-09-13,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,371.56,4169,162,11.0
+2026-09-14,google,Donativos_Recurrentes,donativos_recurrentes,710.93,8065,315,11.0
+2026-09-14,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,453.23,4979,168,12.0
+2026-09-15,google,Donativos_Recurrentes,donativos_recurrentes,574.37,6283,249,20.0
+2026-09-15,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,372.56,3594,131,6.0
+2026-09-16,google,Donativos_Recurrentes,donativos_recurrentes,716.82,7396,211,14.0
+2026-09-16,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,438.51,4578,157,8.0
+2026-09-17,google,Donativos_Recurrentes,donativos_recurrentes,743.24,7691,281,22.0
+2026-09-17,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,460.7,4603,169,8.0
+2026-09-18,google,Donativos_Recurrentes,donativos_recurrentes,569.66,6529,203,10.0
+2026-09-18,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,393.94,3674,109,4.0
+2026-09-19,google,Donativos_Recurrentes,donativos_recurrentes,590.57,6274,251,18.0
+2026-09-19,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,432.34,4908,167,7.0
+2026-09-20,google,Donativos_Recurrentes,donativos_recurrentes,595.7,5478,245,16.0
+2026-09-20,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,425.37,4779,222,13.0
+2026-09-21,google,Donativos_Recurrentes,donativos_recurrentes,610.57,7223,210,12.0
+2026-09-21,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,398.2,3689,110,5.0
+2026-09-22,google,Donativos_Recurrentes,donativos_recurrentes,613.34,5982,163,12.0
+2026-09-22,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,384.22,3454,119,5.0
+2026-09-23,google,Donativos_Recurrentes,donativos_recurrentes,749.25,8307,243,13.0
+2026-09-23,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,491.53,5256,192,8.0
+2026-09-24,google,Donativos_Recurrentes,donativos_recurrentes,632.57,6833,245,13.0
+2026-09-24,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,477.24,5009,195,12.0
+2026-09-25,google,Donativos_Recurrentes,donativos_recurrentes,612.52,7115,212,11.0
+2026-09-25,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,423.37,4376,129,4.0
+2026-09-26,google,Donativos_Recurrentes,donativos_recurrentes,661.47,6413,257,16.0
+2026-09-26,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,487.04,5092,224,12.0
+2026-09-27,google,Donativos_Recurrentes,donativos_recurrentes,768.47,7592,353,23.0
+2026-09-27,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,370.0,4045,129,5.0
+2026-09-28,google,Donativos_Recurrentes,donativos_recurrentes,617.64,6630,242,17.0
+2026-09-28,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,435.98,4319,175,7.0
+2026-09-29,google,Donativos_Recurrentes,donativos_recurrentes,570.3,6194,210,16.0
+2026-09-29,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,463.2,5031,190,8.0
+2026-09-30,google,Donativos_Recurrentes,donativos_recurrentes,620.1,7112,252,13.0
+2026-09-30,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,430.55,4464,148,11.0
+2026-10-01,google,Donativos_Recurrentes,donativos_recurrentes,693.69,7566,275,19.0
+2026-10-01,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,493.65,4892,174,11.0
+2026-10-02,google,Donativos_Recurrentes,donativos_recurrentes,698.43,8098,289,22.0
+2026-10-02,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,459.91,5491,164,7.0
+2026-10-03,google,Donativos_Recurrentes,donativos_recurrentes,695.73,6903,263,16.0
+2026-10-03,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,449.16,4241,144,5.0
+2026-10-04,google,Donativos_Recurrentes,donativos_recurrentes,713.8,6589,236,16.0
+2026-10-04,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,360.36,3736,151,7.0
+2026-10-05,google,Colecta_Dia_Mundial_de_la_Alimentacion,colecta_dia_mundial_de_la_alimentacion,306.75,3254,121,7.0
+2026-10-05,google,Donativos_Recurrentes,donativos_recurrentes,596.88,5589,193,15.0
+2026-10-05,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,391.25,4374,160,9.0
+2026-10-06,google,Colecta_Dia_Mundial_de_la_Alimentacion,colecta_dia_mundial_de_la_alimentacion,310.02,3276,93,5.0
+2026-10-06,google,Donativos_Recurrentes,donativos_recurrentes,671.48,7944,305,14.0
+2026-10-06,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,452.8,5372,203,13.0
+2026-10-07,google,Colecta_Dia_Mundial_de_la_Alimentacion,colecta_dia_mundial_de_la_alimentacion,325.09,2953,111,8.0
+2026-10-07,google,Donativos_Recurrentes,donativos_recurrentes,733.18,7675,292,20.0
+2026-10-07,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,449.26,5344,176,10.0
+2026-10-08,google,Colecta_Dia_Mundial_de_la_Alimentacion,colecta_dia_mundial_de_la_alimentacion,286.93,2982,120,4.0
+2026-10-08,google,Donativos_Recurrentes,donativos_recurrentes,631.13,5876,236,10.0
+2026-10-08,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,447.43,5286,203,8.0
+2026-10-09,google,Colecta_Dia_Mundial_de_la_Alimentacion,colecta_dia_mundial_de_la_alimentacion,283.11,2892,105,6.0
+2026-10-09,google,Donativos_Recurrentes,donativos_recurrentes,762.97,8898,329,27.0
+2026-10-09,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,382.4,3792,141,8.0
+2026-10-10,google,Colecta_Dia_Mundial_de_la_Alimentacion,colecta_dia_mundial_de_la_alimentacion,321.87,2954,96,6.0
+2026-10-10,google,Donativos_Recurrentes,donativos_recurrentes,763.13,8766,324,23.0
+2026-10-10,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,398.96,3726,156,10.0
+2026-10-11,google,Colecta_Dia_Mundial_de_la_Alimentacion,colecta_dia_mundial_de_la_alimentacion,245.91,2413,99,6.0
+2026-10-11,google,Donativos_Recurrentes,donativos_recurrentes,562.92,5990,229,15.0
+2026-10-11,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,487.26,5129,200,7.0
+2026-10-12,google,Colecta_Dia_Mundial_de_la_Alimentacion,colecta_dia_mundial_de_la_alimentacion,269.27,3254,111,6.0
+2026-10-12,google,Donativos_Recurrentes,donativos_recurrentes,701.19,7568,290,23.0
+2026-10-12,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,365.38,3767,118,5.0
+2026-10-13,google,Colecta_Dia_Mundial_de_la_Alimentacion,colecta_dia_mundial_de_la_alimentacion,294.49,2727,100,7.0
+2026-10-13,google,Donativos_Recurrentes,donativos_recurrentes,582.75,5644,155,12.0
+2026-10-13,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,372.33,4462,172,10.0
+2026-10-14,google,Colecta_Dia_Mundial_de_la_Alimentacion,colecta_dia_mundial_de_la_alimentacion,298.58,3396,125,5.0
+2026-10-14,google,Donativos_Recurrentes,donativos_recurrentes,677.9,8024,242,9.0
+2026-10-14,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,488.36,5911,214,10.0
+2026-10-15,google,Colecta_Dia_Mundial_de_la_Alimentacion,colecta_dia_mundial_de_la_alimentacion,280.64,2713,86,4.0
+2026-10-15,google,Donativos_Recurrentes,donativos_recurrentes,733.01,8663,271,15.0
+2026-10-15,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,365.43,4142,139,9.0
+2026-10-16,google,Colecta_Dia_Mundial_de_la_Alimentacion,colecta_dia_mundial_de_la_alimentacion,277.44,2565,84,5.0
+2026-10-16,google,Donativos_Recurrentes,donativos_recurrentes,589.35,7034,220,13.0
+2026-10-16,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,483.67,4604,161,10.0
+2026-10-17,google,Colecta_Dia_Mundial_de_la_Alimentacion,colecta_dia_mundial_de_la_alimentacion,273.69,2580,117,4.0
+2026-10-17,google,Donativos_Recurrentes,donativos_recurrentes,580.41,6819,227,13.0
+2026-10-17,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,426.38,3937,144,7.0
+2026-10-18,google,Colecta_Dia_Mundial_de_la_Alimentacion,colecta_dia_mundial_de_la_alimentacion,314.86,2909,95,6.0
+2026-10-18,google,Donativos_Recurrentes,donativos_recurrentes,700.8,7914,364,20.0
+2026-10-18,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,450.47,5250,191,13.0
+2026-10-19,google,Colecta_Dia_Mundial_de_la_Alimentacion,colecta_dia_mundial_de_la_alimentacion,313.06,3351,117,7.0
+2026-10-19,google,Donativos_Recurrentes,donativos_recurrentes,715.88,6754,221,9.0
+2026-10-19,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,398.91,4759,182,11.0
+2026-10-20,google,Colecta_Dia_Mundial_de_la_Alimentacion,colecta_dia_mundial_de_la_alimentacion,269.67,2516,80,5.0
+2026-10-20,google,Donativos_Recurrentes,donativos_recurrentes,662.76,6784,272,10.0
+2026-10-20,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,421.4,4188,132,10.0
+2026-10-21,google,Donativos_Recurrentes,donativos_recurrentes,637.81,6599,264,20.0
+2026-10-21,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,414.56,4382,178,12.0
+2026-10-22,google,Donativos_Recurrentes,donativos_recurrentes,580.86,6454,223,18.0
+2026-10-22,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,433.25,4441,132,7.0
+2026-10-23,google,Donativos_Recurrentes,donativos_recurrentes,635.32,6483,193,8.0
+2026-10-23,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,462.12,5047,189,8.0
+2026-10-24,google,Donativos_Recurrentes,donativos_recurrentes,738.09,7663,319,21.0
+2026-10-24,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,434.14,5156,196,13.0
+2026-10-25,google,Donativos_Recurrentes,donativos_recurrentes,685.4,6178,269,12.0
+2026-10-25,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,376.39,4524,184,8.0
+2026-10-26,google,Donativos_Recurrentes,donativos_recurrentes,586.44,6292,177,12.0
+2026-10-26,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,381.38,4075,141,5.0
+2026-10-27,google,Donativos_Recurrentes,donativos_recurrentes,603.5,5811,226,11.0
+2026-10-27,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,493.95,5843,195,8.0
+2026-10-28,google,Donativos_Recurrentes,donativos_recurrentes,590.99,6968,189,14.0
+2026-10-28,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,472.34,4969,183,11.0
+2026-10-29,google,Donativos_Recurrentes,donativos_recurrentes,590.38,5524,169,7.0
+2026-10-29,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,396.91,4597,186,8.0
+2026-10-30,google,Donativos_Recurrentes,donativos_recurrentes,698.82,6309,172,12.0
+2026-10-30,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,434.42,4413,175,10.0
+2026-10-31,google,Donativos_Recurrentes,donativos_recurrentes,609.97,6081,206,7.0
+2026-10-31,google,Voluntarios_Sept_Oct,voluntarios_sept_oct,478.71,5589,198,14.0
+2026-09-01,meta,Donativos Recurrentes,donativos_recurrentes,602.89,16894,181,7.0
+2026-09-01,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,446.32,10071,109,3.0
+2026-09-02,meta,Donativos Recurrentes,donativos_recurrentes,701.05,17341,192,10.0
+2026-09-02,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,459.42,12730,176,5.0
+2026-09-03,meta,Donativos Recurrentes,donativos_recurrentes,575.23,14948,215,13.0
+2026-09-03,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,416.96,9424,100,4.0
+2026-09-04,meta,Donativos Recurrentes,donativos_recurrentes,575.38,13838,150,9.0
+2026-09-04,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,363.58,8703,110,5.0
+2026-09-05,meta,Donativos Recurrentes,donativos_recurrentes,744.98,21835,285,9.0
+2026-09-05,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,389.76,10531,163,4.0
+2026-09-06,meta,Donativos Recurrentes,donativos_recurrentes,735.09,20525,295,18.0
+2026-09-06,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,468.79,13069,168,5.0
+2026-09-07,meta,Donativos Recurrentes,donativos_recurrentes,697.34,15641,211,7.0
+2026-09-07,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,489.22,12243,122,3.0
+2026-09-08,meta,Donativos Recurrentes,donativos_recurrentes,699.31,20826,213,6.0
+2026-09-08,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,474.41,12873,173,9.0
+2026-09-09,meta,Donativos Recurrentes,donativos_recurrentes,582.48,15573,169,8.0
+2026-09-09,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,432.39,12993,148,6.0
+2026-09-10,meta,Donativos Recurrentes,donativos_recurrentes,710.7,17039,215,7.0
+2026-09-10,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,471.97,12861,176,8.0
+2026-09-11,meta,Donativos Recurrentes,donativos_recurrentes,662.59,19556,267,8.0
+2026-09-11,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,455.12,10344,110,4.0
+2026-09-12,meta,Donativos Recurrentes,donativos_recurrentes,648.95,15933,176,9.0
+2026-09-12,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,370.77,8974,104,3.0
+2026-09-13,meta,Donativos Recurrentes,donativos_recurrentes,693.79,16953,256,11.0
+2026-09-13,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,445.82,11256,147,5.0
+2026-09-14,meta,Donativos Recurrentes,donativos_recurrentes,649.81,14584,145,8.0
+2026-09-14,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,396.04,11787,149,7.0
+2026-09-15,meta,Donativos Recurrentes,donativos_recurrentes,749.83,20002,272,13.0
+2026-09-15,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,383.1,10774,111,4.0
+2026-09-16,meta,Donativos Recurrentes,donativos_recurrentes,591.1,13816,153,9.0
+2026-09-16,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,493.59,13534,166,8.0
+2026-09-17,meta,Donativos Recurrentes,donativos_recurrentes,727.19,21207,295,10.0
+2026-09-17,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,473.79,13500,144,4.0
+2026-09-18,meta,Donativos Recurrentes,donativos_recurrentes,612.4,14195,189,11.0
+2026-09-18,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,402.59,9856,104,6.0
+2026-09-19,meta,Donativos Recurrentes,donativos_recurrentes,645.34,17597,209,12.0
+2026-09-19,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,478.31,11887,174,7.0
+2026-09-20,meta,Donativos Recurrentes,donativos_recurrentes,741.57,22302,346,20.0
+2026-09-20,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,483.46,12565,157,5.0
+2026-09-21,meta,Donativos Recurrentes,donativos_recurrentes,565.21,15929,178,10.0
+2026-09-21,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,435.78,10651,132,7.0
+2026-09-22,meta,Donativos Recurrentes,donativos_recurrentes,728.47,21264,286,10.0
+2026-09-22,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,413.92,9975,143,6.0
+2026-09-23,meta,Donativos Recurrentes,donativos_recurrentes,725.35,16843,232,13.0
+2026-09-23,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,372.27,8465,85,4.0
+2026-09-24,meta,Donativos Recurrentes,donativos_recurrentes,606.71,17482,206,7.0
+2026-09-24,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,466.93,12000,118,4.0
+2026-09-25,meta,Donativos Recurrentes,donativos_recurrentes,727.02,17568,170,5.0
+2026-09-25,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,494.48,13126,187,10.0
+2026-09-26,meta,Donativos Recurrentes,donativos_recurrentes,628.94,18360,300,11.0
+2026-09-26,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,361.55,10144,150,6.0
+2026-09-27,meta,Donativos Recurrentes,donativos_recurrentes,694.71,17731,291,13.0
+2026-09-27,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,396.02,10862,126,5.0
+2026-09-28,meta,Donativos Recurrentes,donativos_recurrentes,757.24,17627,251,8.0
+2026-09-28,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,421.25,12594,173,6.0
+2026-09-29,meta,Donativos Recurrentes,donativos_recurrentes,762.13,18644,188,8.0
+2026-09-29,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,427.58,10167,142,8.0
+2026-09-30,meta,Donativos Recurrentes,donativos_recurrentes,712.99,17714,221,10.0
+2026-09-30,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,400.29,10973,137,4.0
+2026-10-01,meta,Donativos Recurrentes,donativos_recurrentes,640.89,17253,186,9.0
+2026-10-01,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,462.94,12326,164,7.0
+2026-10-02,meta,Donativos Recurrentes,donativos_recurrentes,560.36,16628,202,10.0
+2026-10-02,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,360.08,8975,86,5.0
+2026-10-03,meta,Donativos Recurrentes,donativos_recurrentes,715.81,19801,258,7.0
+2026-10-03,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,478.63,13848,176,5.0
+2026-10-04,meta,Donativos Recurrentes,donativos_recurrentes,699.49,17469,223,12.0
+2026-10-04,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,478.53,14281,164,7.0
+2026-10-05,meta,Colecta Dia Mundial de la Alimentacion,colecta_dia_mundial_de_la_alimentacion,289.15,7844,83,2.0
+2026-10-05,meta,Donativos Recurrentes,donativos_recurrentes,711.15,17593,195,8.0
+2026-10-05,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,369.34,10479,139,4.0
+2026-10-06,meta,Colecta Dia Mundial de la Alimentacion,colecta_dia_mundial_de_la_alimentacion,279.23,6309,70,3.0
+2026-10-06,meta,Donativos Recurrentes,donativos_recurrentes,644.5,15920,162,6.0
+2026-10-06,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,424.16,11328,123,7.0
+2026-10-07,meta,Colecta Dia Mundial de la Alimentacion,colecta_dia_mundial_de_la_alimentacion,276.39,6542,77,2.0
+2026-10-07,meta,Donativos Recurrentes,donativos_recurrentes,757.48,20993,292,14.0
+2026-10-07,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,417.12,10027,122,6.0
+2026-10-08,meta,Colecta Dia Mundial de la Alimentacion,colecta_dia_mundial_de_la_alimentacion,296.0,6684,76,3.0
+2026-10-08,meta,Donativos Recurrentes,donativos_recurrentes,623.2,16635,159,5.0
+2026-10-08,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,387.16,9612,138,6.0
+2026-10-09,meta,Colecta Dia Mundial de la Alimentacion,colecta_dia_mundial_de_la_alimentacion,242.44,6653,68,2.0
+2026-10-09,meta,Donativos Recurrentes,donativos_recurrentes,650.28,17523,223,9.0
+2026-10-09,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,419.14,11088,112,3.0
+2026-10-10,meta,Colecta Dia Mundial de la Alimentacion,colecta_dia_mundial_de_la_alimentacion,244.53,6201,75,2.0
+2026-10-10,meta,Donativos Recurrentes,donativos_recurrentes,652.85,15704,214,12.0
+2026-10-10,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,405.64,10957,134,4.0
+2026-10-11,meta,Colecta Dia Mundial de la Alimentacion,colecta_dia_mundial_de_la_alimentacion,308.51,7824,118,6.0
+2026-10-11,meta,Donativos Recurrentes,donativos_recurrentes,727.17,17239,198,9.0
+2026-10-11,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,369.58,10108,124,7.0
+2026-10-12,meta,Colecta Dia Mundial de la Alimentacion,colecta_dia_mundial_de_la_alimentacion,262.7,6046,58,2.0
+2026-10-12,meta,Donativos Recurrentes,donativos_recurrentes,692.92,17333,234,12.0
+2026-10-12,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,476.05,10914,117,5.0
+2026-10-13,meta,Colecta Dia Mundial de la Alimentacion,colecta_dia_mundial_de_la_alimentacion,329.99,8293,105,5.0
+2026-10-13,meta,Donativos Recurrentes,donativos_recurrentes,701.29,16930,178,4.0
+2026-10-13,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,388.92,9105,128,6.0
+2026-10-14,meta,Colecta Dia Mundial de la Alimentacion,colecta_dia_mundial_de_la_alimentacion,298.66,8458,119,4.0
+2026-10-14,meta,Donativos Recurrentes,donativos_recurrentes,611.42,15969,218,6.0
+2026-10-14,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,423.81,12105,163,5.0
+2026-10-15,meta,Colecta Dia Mundial de la Alimentacion,colecta_dia_mundial_de_la_alimentacion,241.83,5700,58,2.0
+2026-10-15,meta,Donativos Recurrentes,donativos_recurrentes,647.03,17690,186,9.0
+2026-10-15,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,373.09,9614,111,4.0
+2026-10-16,meta,Colecta Dia Mundial de la Alimentacion,colecta_dia_mundial_de_la_alimentacion,290.76,7004,90,4.0
+2026-10-16,meta,Donativos Recurrentes,donativos_recurrentes,663.82,16127,205,5.0
+2026-10-16,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,458.43,12691,181,5.0
+2026-10-17,meta,Colecta Dia Mundial de la Alimentacion,colecta_dia_mundial_de_la_alimentacion,255.1,6929,105,3.0
+2026-10-17,meta,Donativos Recurrentes,donativos_recurrentes,717.7,20417,237,10.0
+2026-10-17,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,414.35,10378,163,5.0
+2026-10-18,meta,Colecta Dia Mundial de la Alimentacion,colecta_dia_mundial_de_la_alimentacion,313.74,9407,109,3.0
+2026-10-18,meta,Donativos Recurrentes,donativos_recurrentes,596.94,17867,248,7.0
+2026-10-18,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,385.68,9992,133,4.0
+2026-10-19,meta,Colecta Dia Mundial de la Alimentacion,colecta_dia_mundial_de_la_alimentacion,268.08,7429,105,4.0
+2026-10-19,meta,Donativos Recurrentes,donativos_recurrentes,612.33,17797,209,11.0
+2026-10-19,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,393.72,11676,136,7.0
+2026-10-20,meta,Colecta Dia Mundial de la Alimentacion,colecta_dia_mundial_de_la_alimentacion,304.35,6990,90,4.0
+2026-10-20,meta,Donativos Recurrentes,donativos_recurrentes,700.19,21123,263,16.0
+2026-10-20,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,434.29,9887,142,8.0
+2026-10-21,meta,Donativos Recurrentes,donativos_recurrentes,747.2,20327,265,11.0
+2026-10-21,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,490.81,14568,199,6.0
+2026-10-22,meta,Donativos Recurrentes,donativos_recurrentes,734.42,19604,272,14.0
+2026-10-22,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,425.56,10237,117,3.0
+2026-10-23,meta,Donativos Recurrentes,donativos_recurrentes,659.68,16105,173,8.0
+2026-10-23,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,411.16,12395,134,7.0
+2026-10-24,meta,Donativos Recurrentes,donativos_recurrentes,720.82,19090,276,10.0
+2026-10-24,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,421.43,10834,176,11.0
+2026-10-25,meta,Donativos Recurrentes,donativos_recurrentes,576.27,14190,177,6.0
+2026-10-25,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,435.03,12198,145,5.0
+2026-10-26,meta,Donativos Recurrentes,donativos_recurrentes,673.43,15799,169,8.0
+2026-10-26,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,490.78,13221,161,8.0
+2026-10-27,meta,Donativos Recurrentes,donativos_recurrentes,708.35,16203,187,8.0
+2026-10-27,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,367.72,9921,119,6.0
+2026-10-28,meta,Donativos Recurrentes,donativos_recurrentes,647.31,15536,180,10.0
+2026-10-28,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,381.25,11419,114,3.0
+2026-10-29,meta,Donativos Recurrentes,donativos_recurrentes,682.66,19018,260,14.0
+2026-10-29,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,440.33,12196,130,4.0
+2026-10-30,meta,Donativos Recurrentes,donativos_recurrentes,639.88,14342,161,8.0
+2026-10-30,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,480.19,11674,145,7.0
+2026-10-31,meta,Donativos Recurrentes,donativos_recurrentes,739.22,22099,295,15.0
+2026-10-31,meta,Voluntarios Sept-Oct,voluntarios_sept_oct,416.6,11238,156,9.0
+2026-09-01,tiktok,donativos recurrentes,donativos_recurrentes,656.95,27906,212,3.0
+2026-09-01,tiktok,voluntarios sept-oct,voluntarios_sept_oct,461.29,23283,202,4.0
+2026-09-02,tiktok,donativos recurrentes,donativos_recurrentes,762.92,37974,340,4.0
+2026-09-02,tiktok,voluntarios sept-oct,voluntarios_sept_oct,441.06,19155,158,2.0
+2026-09-03,tiktok,donativos recurrentes,donativos_recurrentes,612.5,29020,266,4.0
+2026-09-03,tiktok,voluntarios sept-oct,voluntarios_sept_oct,448.66,18706,126,2.0
+2026-09-04,tiktok,donativos recurrentes,donativos_recurrentes,581.54,29176,266,3.0
+2026-09-04,tiktok,voluntarios sept-oct,voluntarios_sept_oct,409.62,20085,165,3.0
+2026-09-05,tiktok,donativos recurrentes,donativos_recurrentes,720.25,30507,326,4.0
+2026-09-05,tiktok,voluntarios sept-oct,voluntarios_sept_oct,474.1,24617,255,5.0
+2026-09-06,tiktok,donativos recurrentes,donativos_recurrentes,651.87,33598,274,4.0
+2026-09-06,tiktok,voluntarios sept-oct,voluntarios_sept_oct,446.76,17421,187,4.0
+2026-09-07,tiktok,donativos recurrentes,donativos_recurrentes,633.41,24703,162,2.0
+2026-09-07,tiktok,voluntarios sept-oct,voluntarios_sept_oct,396.11,16278,140,2.0
+2026-09-08,tiktok,donativos recurrentes,donativos_recurrentes,609.51,31815,241,2.0
+2026-09-08,tiktok,voluntarios sept-oct,voluntarios_sept_oct,405.88,15715,144,2.0
+2026-09-09,tiktok,donativos recurrentes,donativos_recurrentes,755.47,37833,320,7.0
+2026-09-09,tiktok,voluntarios sept-oct,voluntarios_sept_oct,414.11,16800,141,1.0
+2026-09-10,tiktok,donativos recurrentes,donativos_recurrentes,588.9,25056,226,4.0
+2026-09-10,tiktok,voluntarios sept-oct,voluntarios_sept_oct,460.73,19152,148,2.0
+2026-09-11,tiktok,donativos recurrentes,donativos_recurrentes,589.15,28430,222,2.0
+2026-09-11,tiktok,voluntarios sept-oct,voluntarios_sept_oct,409.96,19873,176,3.0
+2026-09-12,tiktok,donativos recurrentes,donativos_recurrentes,576.64,24291,253,4.0
+2026-09-12,tiktok,voluntarios sept-oct,voluntarios_sept_oct,371.47,14618,116,2.0
+2026-09-13,tiktok,donativos recurrentes,donativos_recurrentes,712.72,32666,253,3.0
+2026-09-13,tiktok,voluntarios sept-oct,voluntarios_sept_oct,450.99,19097,187,3.0
+2026-09-14,tiktok,donativos recurrentes,donativos_recurrentes,623.24,24485,189,4.0
+2026-09-14,tiktok,voluntarios sept-oct,voluntarios_sept_oct,419.68,17778,156,1.0
+2026-09-15,tiktok,donativos recurrentes,donativos_recurrentes,655.99,26336,244,4.0
+2026-09-15,tiktok,voluntarios sept-oct,voluntarios_sept_oct,418.04,17766,152,2.0
+2026-09-16,tiktok,donativos recurrentes,donativos_recurrentes,563.45,25729,184,2.0
+2026-09-16,tiktok,voluntarios sept-oct,voluntarios_sept_oct,450.06,17667,135,2.0
+2026-09-17,tiktok,donativos recurrentes,donativos_recurrentes,650.14,30569,219,3.0
+2026-09-17,tiktok,voluntarios sept-oct,voluntarios_sept_oct,361.04,15433,109,1.0
+2026-09-18,tiktok,donativos recurrentes,donativos_recurrentes,699.52,27843,265,3.0
+2026-09-18,tiktok,voluntarios sept-oct,voluntarios_sept_oct,394.5,17006,109,2.0
+2026-09-19,tiktok,donativos recurrentes,donativos_recurrentes,670.47,30543,335,6.0
+2026-09-19,tiktok,voluntarios sept-oct,voluntarios_sept_oct,383.72,16814,167,3.0
+2026-09-20,tiktok,donativos recurrentes,donativos_recurrentes,642.0,28920,280,6.0
+2026-09-20,tiktok,voluntarios sept-oct,voluntarios_sept_oct,472.5,23450,178,4.0
+2026-09-21,tiktok,donativos recurrentes,donativos_recurrentes,613.27,23830,212,3.0
+2026-09-21,tiktok,voluntarios sept-oct,voluntarios_sept_oct,365.71,14223,132,3.0
+2026-09-22,tiktok,donativos recurrentes,donativos_recurrentes,713.92,33699,298,6.0
+2026-09-22,tiktok,voluntarios sept-oct,voluntarios_sept_oct,437.73,20334,176,2.0
+2026-09-23,tiktok,donativos recurrentes,donativos_recurrentes,629.83,24715,201,4.0
+2026-09-23,tiktok,voluntarios sept-oct,voluntarios_sept_oct,375.55,14616,108,2.0
+2026-09-24,tiktok,donativos recurrentes,donativos_recurrentes,596.77,29397,231,4.0
+2026-09-24,tiktok,voluntarios sept-oct,voluntarios_sept_oct,443.45,22164,207,2.0
+2026-09-25,tiktok,donativos recurrentes,donativos_recurrentes,692.66,34426,227,4.0
+2026-09-25,tiktok,voluntarios sept-oct,voluntarios_sept_oct,474.01,19886,164,3.0
+2026-09-26,tiktok,donativos recurrentes,donativos_recurrentes,656.11,27975,210,2.0
+2026-09-26,tiktok,voluntarios sept-oct,voluntarios_sept_oct,413.43,17722,152,2.0
+2026-09-27,tiktok,donativos recurrentes,donativos_recurrentes,568.8,29215,270,6.0
+2026-09-27,tiktok,voluntarios sept-oct,voluntarios_sept_oct,382.7,17450,135,2.0
+2026-09-28,tiktok,donativos recurrentes,donativos_recurrentes,674.04,28370,249,3.0
+2026-09-28,tiktok,voluntarios sept-oct,voluntarios_sept_oct,482.3,20932,182,4.0
+2026-09-29,tiktok,donativos recurrentes,donativos_recurrentes,634.96,31293,286,4.0
+2026-09-29,tiktok,voluntarios sept-oct,voluntarios_sept_oct,470.03,19674,135,1.0
+2026-09-30,tiktok,donativos recurrentes,donativos_recurrentes,586.14,25587,236,5.0
+2026-09-30,tiktok,voluntarios sept-oct,voluntarios_sept_oct,441.32,21626,183,2.0
+2026-10-01,tiktok,donativos recurrentes,donativos_recurrentes,747.87,32838,312,5.0
+2026-10-01,tiktok,voluntarios sept-oct,voluntarios_sept_oct,464.33,21068,185,4.0
+2026-10-02,tiktok,donativos recurrentes,donativos_recurrentes,664.48,34048,274,6.0
+2026-10-02,tiktok,voluntarios sept-oct,voluntarios_sept_oct,420.6,21551,176,3.0
+2026-10-03,tiktok,donativos recurrentes,donativos_recurrentes,712.69,28302,271,6.0
+2026-10-03,tiktok,voluntarios sept-oct,voluntarios_sept_oct,444.31,22402,216,2.0
+2026-10-04,tiktok,donativos recurrentes,donativos_recurrentes,674.55,29016,222,4.0
+2026-10-04,tiktok,voluntarios sept-oct,voluntarios_sept_oct,369.22,16491,139,2.0
+2026-10-05,tiktok,colecta dia mundial de la alimentacion,colecta_dia_mundial_de_la_alimentacion,262.55,12417,101,1.0
+2026-10-05,tiktok,donativos recurrentes,donativos_recurrentes,624.36,29253,227,4.0
+2026-10-05,tiktok,voluntarios sept-oct,voluntarios_sept_oct,367.58,16745,123,2.0
+2026-10-06,tiktok,colecta dia mundial de la alimentacion,colecta_dia_mundial_de_la_alimentacion,267.25,12269,98,1.0
+2026-10-06,tiktok,donativos recurrentes,donativos_recurrentes,633.82,24854,228,3.0
+2026-10-06,tiktok,voluntarios sept-oct,voluntarios_sept_oct,367.68,18375,122,2.0
+2026-10-07,tiktok,colecta dia mundial de la alimentacion,colecta_dia_mundial_de_la_alimentacion,324.74,13229,112,2.0
+2026-10-07,tiktok,donativos recurrentes,donativos_recurrentes,769.61,32616,311,7.0
+2026-10-07,tiktok,voluntarios sept-oct,voluntarios_sept_oct,475.46,22357,179,3.0
+2026-10-08,tiktok,colecta dia mundial de la alimentacion,colecta_dia_mundial_de_la_alimentacion,294.46,14760,121,2.0
+2026-10-08,tiktok,donativos recurrentes,donativos_recurrentes,575.76,27250,206,4.0
+2026-10-08,tiktok,voluntarios sept-oct,voluntarios_sept_oct,434.83,21495,199,3.0
+2026-10-09,tiktok,colecta dia mundial de la alimentacion,colecta_dia_mundial_de_la_alimentacion,242.55,9521,80,1.0
+2026-10-09,tiktok,donativos recurrentes,donativos_recurrentes,702.68,36278,248,4.0
+2026-10-09,tiktok,voluntarios sept-oct,voluntarios_sept_oct,469.33,22304,165,2.0
+2026-10-10,tiktok,colecta dia mundial de la alimentacion,colecta_dia_mundial_de_la_alimentacion,298.6,14659,130,2.0
+2026-10-10,tiktok,donativos recurrentes,donativos_recurrentes,724.08,28319,215,4.0
+2026-10-10,tiktok,voluntarios sept-oct,voluntarios_sept_oct,380.37,15016,116,2.0
+2026-10-11,tiktok,colecta dia mundial de la alimentacion,colecta_dia_mundial_de_la_alimentacion,284.82,13440,113,2.0
+2026-10-11,tiktok,donativos recurrentes,donativos_recurrentes,636.93,27933,263,5.0
+2026-10-11,tiktok,voluntarios sept-oct,voluntarios_sept_oct,406.36,19658,181,2.0
+2026-10-12,tiktok,colecta dia mundial de la alimentacion,colecta_dia_mundial_de_la_alimentacion,283.47,14062,120,1.0
+2026-10-12,tiktok,donativos recurrentes,donativos_recurrentes,702.6,36236,275,5.0
+2026-10-12,tiktok,voluntarios sept-oct,voluntarios_sept_oct,393.45,17549,136,2.0
+2026-10-13,tiktok,colecta dia mundial de la alimentacion,colecta_dia_mundial_de_la_alimentacion,246.57,9727,75,1.0
+2026-10-13,tiktok,donativos recurrentes,donativos_recurrentes,680.52,31206,239,4.0
+2026-10-13,tiktok,voluntarios sept-oct,voluntarios_sept_oct,381.43,16676,121,2.0
+2026-10-14,tiktok,colecta dia mundial de la alimentacion,colecta_dia_mundial_de_la_alimentacion,258.36,12119,89,1.0
+2026-10-14,tiktok,donativos recurrentes,donativos_recurrentes,612.42,24609,215,3.0
+2026-10-14,tiktok,voluntarios sept-oct,voluntarios_sept_oct,405.68,18981,169,3.0
+2026-10-15,tiktok,colecta dia mundial de la alimentacion,colecta_dia_mundial_de_la_alimentacion,306.08,15418,146,1.0
+2026-10-15,tiktok,donativos recurrentes,donativos_recurrentes,641.27,29687,214,3.0
+2026-10-15,tiktok,voluntarios sept-oct,voluntarios_sept_oct,368.9,14728,126,1.0
+2026-10-16,tiktok,colecta dia mundial de la alimentacion,colecta_dia_mundial_de_la_alimentacion,273.35,12654,93,1.0
+2026-10-16,tiktok,donativos recurrentes,donativos_recurrentes,653.72,34139,249,5.0
+2026-10-16,tiktok,voluntarios sept-oct,voluntarios_sept_oct,457.7,21781,202,4.0
+2026-10-17,tiktok,colecta dia mundial de la alimentacion,colecta_dia_mundial_de_la_alimentacion,264.07,11095,85,1.0
+2026-10-17,tiktok,donativos recurrentes,donativos_recurrentes,663.15,26730,280,4.0
+2026-10-17,tiktok,voluntarios sept-oct,voluntarios_sept_oct,405.0,18866,148,2.0
+2026-10-18,tiktok,colecta dia mundial de la alimentacion,colecta_dia_mundial_de_la_alimentacion,274.57,12912,106,2.0
+2026-10-18,tiktok,donativos recurrentes,donativos_recurrentes,748.72,33472,257,5.0
+2026-10-18,tiktok,voluntarios sept-oct,voluntarios_sept_oct,490.64,23629,207,4.0
+2026-10-19,tiktok,colecta dia mundial de la alimentacion,colecta_dia_mundial_de_la_alimentacion,254.37,10963,90,1.0
+2026-10-19,tiktok,donativos recurrentes,donativos_recurrentes,737.56,31710,238,2.0
+2026-10-19,tiktok,voluntarios sept-oct,voluntarios_sept_oct,486.63,20855,158,3.0
+2026-10-20,tiktok,colecta dia mundial de la alimentacion,colecta_dia_mundial_de_la_alimentacion,308.68,14023,112,2.0
+2026-10-20,tiktok,donativos recurrentes,donativos_recurrentes,673.86,34225,312,6.0
+2026-10-20,tiktok,voluntarios sept-oct,voluntarios_sept_oct,469.78,22443,203,4.0
+2026-10-21,tiktok,donativos recurrentes,donativos_recurrentes,754.74,35723,319,5.0
+2026-10-21,tiktok,voluntarios sept-oct,voluntarios_sept_oct,452.53,20732,175,2.0
+2026-10-22,tiktok,donativos recurrentes,donativos_recurrentes,585.49,24225,165,3.0
+2026-10-22,tiktok,voluntarios sept-oct,voluntarios_sept_oct,408.85,17817,124,1.0
+2026-10-23,tiktok,donativos recurrentes,donativos_recurrentes,565.52,26122,198,4.0
+2026-10-23,tiktok,voluntarios sept-oct,voluntarios_sept_oct,487.94,22087,157,2.0
+2026-10-24,tiktok,donativos recurrentes,donativos_recurrentes,675.85,31751,243,3.0
+2026-10-24,tiktok,voluntarios sept-oct,voluntarios_sept_oct,370.42,18576,143,3.0
+2026-10-25,tiktok,donativos recurrentes,donativos_recurrentes,769.91,37294,346,7.0
+2026-10-25,tiktok,voluntarios sept-oct,voluntarios_sept_oct,472.74,23961,179,2.0
+2026-10-26,tiktok,donativos recurrentes,donativos_recurrentes,732.9,29053,276,5.0
+2026-10-26,tiktok,voluntarios sept-oct,voluntarios_sept_oct,463.45,18734,142,1.0
+2026-10-27,tiktok,donativos recurrentes,donativos_recurrentes,654.49,31357,235,5.0
+2026-10-27,tiktok,voluntarios sept-oct,voluntarios_sept_oct,472.23,23210,208,2.0
+2026-10-28,tiktok,donativos recurrentes,donativos_recurrentes,723.86,34282,239,5.0
+2026-10-28,tiktok,voluntarios sept-oct,voluntarios_sept_oct,419.09,18539,158,2.0
+2026-10-29,tiktok,donativos recurrentes,donativos_recurrentes,650.85,33229,218,2.0
+2026-10-29,tiktok,voluntarios sept-oct,voluntarios_sept_oct,419.97,17857,157,2.0
+2026-10-30,tiktok,donativos recurrentes,donativos_recurrentes,592.13,24207,179,3.0
+2026-10-30,tiktok,voluntarios sept-oct,voluntarios_sept_oct,432.09,18517,166,2.0
+2026-10-31,tiktok,donativos recurrentes,donativos_recurrentes,632.66,32561,346,7.0
+2026-10-31,tiktok,voluntarios sept-oct,voluntarios_sept_oct,472.74,20636,223,5.0
